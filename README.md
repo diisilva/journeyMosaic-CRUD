@@ -58,7 +58,7 @@ Antes de começar, verifique se você possui os seguintes itens instalados:
 2. **Instale as denpendências necessárias:**
 
    ```bash
-    pip install mysql-connector-python bcrypt tkinter
+    pip install mysql-connector-python bcrypt 
     ```
 3. **Execute o projeto:**
 
